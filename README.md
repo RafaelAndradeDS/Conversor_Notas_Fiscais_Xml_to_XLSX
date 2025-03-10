@@ -1,8 +1,11 @@
-# **EXTRAÇÃO DE DADOS DE NOTAS FISCAIS XML PARA EXCEL**
+# **EXTRAÇÃO DE DADOS DE NOTAS FISCAIS XML PARA EXCEL (XLSX)**
 
 ## 📝 **DESCRIÇÃO**
-Este projeto consiste em um script em *Python* que processa em massa arquivos *XML* de notas fiscais eletrônicas (*NF-e*) e extrai informações específicas para um arquivo *Excel*. 
+Este projeto foi desenvolvido como um trabalho freelancer contratado através da plataforma *Freelancer.com.br*. A necessidade do cliente era clara: *automatizar a extração de dados* de um grande volume de *notas fiscais eletrônicas (NF-e)* armazenadas em arquivos *XML* e convertê-los para um formato mais acessível, como *Excel*. Esse projeto exemplifica minha experiência com automação de processos e manipulação de dados estruturados, atendendo às demandas de empresas que precisam otimizar seu fluxo de trabalho. 🚀
 
+## EXPERIÊNCIA
+
+Esse projeto exemplifica minha experiência com *automação de processos* e *manipulação de dados estruturados*, atendendo às demandas de empresas que precisam *otimizar seu fluxo de trabalho*. 🚀
 🔹 **Bibliotecas Utilizadas:**
 - `xml.etree.ElementTree` → Leitura dos arquivos XML.
 - `pandas` → Manipulação de dados e geração do arquivo Excel.
